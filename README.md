@@ -78,7 +78,7 @@ pip3 install TMC-2209-Raspberry-Pi[RASPBERRY_PI]
 
 ## Wiring
 
-Pin TMC2209 | connect to | Function
+Pin TMC2209 | Color | connect to | Function
 -- | -- | -- | --
 TX or PDN_UART with 1kOhm | YELLOW | TX of Raspberry Pi | send data to TMC via UART
 RX or PDN_UART directly | YELLOW | RX of Raspberry Pi | receive data from TMC via UART
